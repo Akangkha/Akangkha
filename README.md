@@ -1,4 +1,4 @@
-![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/63ec60fd-4b8c-4e7f-a510-e54e45d5e11f)
+  ![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/63ec60fd-4b8c-4e7f-a510-e54e45d5e11f)
 ### Hi there 👋 Akangkha this side!
 
 <!--
