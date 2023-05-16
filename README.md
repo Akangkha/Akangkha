@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/5a681d1f-c289-45f6-a4ca-36eab1b48420"  width="70%"/></p>
-<p><h1 align="center">Hi there 👋 Akangkha this side!</h1></p>
+<p><h1 align="center">Hi there 👋🏻 Akangkha this side!</h1></p>
 
 <!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
 
@@ -10,9 +10,9 @@ Here are some ideas to get you started: -->
 -------Frshers in KIIT DU , CSE -------
 I am a passinate web developer hunting down projects whenever i get the opportunity! ⚔️
 - 🔭 I’m currently working on ...google search engine clone and also gaining insights of AWS
-- ⚡ Fun fact: ... Always trusting my intuition
-- 😄 Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee ☕
-- 👯 I’m looking to collaborate on ...Web application related projects
+- ✒️ Fun fact: ... Always trusting my intuition
+- ☕ Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee 
+- 👩🏻‍💻 I’m looking to collaborate on ...Web application related projects
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
