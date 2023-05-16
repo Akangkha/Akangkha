@@ -10,9 +10,10 @@ Here are some ideas to get you started: -->
 -------Fresher in KIIT DU , CSE -------
 I am a passinate web developer hunting down projects whenever I get the opportunity! ⚔️
 - 🔭 I’m currently working on ...google search engine clone and also gaining insights of AWS
-- ✒️ Fun fact: ... Always trusting my intuition
-- ☕ Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee 
 - 👩🏻‍💻 I’m looking to collaborate on ...Web application related projects
+- ✒️ Fun fact: ... Always trusting my intuition
+- ☕ Feel Free: ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee 
+
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
