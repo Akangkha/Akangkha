@@ -23,7 +23,7 @@ I am a passinate web developer hunting down projects whenever I get the opportun
 - 😄 Pronouns: ... -->
 
 
-<h2>Languages and tools</h2>
+<h2>Languages - tools </h2>
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/a1ba5bf6-439c-471e-b0fc-23ec3796b325" width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/0c1659fa-513c-4123-bf54-8b3c1e3df287" width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/26ae747d-9d5c-4744-9f43-ec2e4c2d6605"  width="50" height="50"  />
@@ -33,3 +33,9 @@ I am a passinate web developer hunting down projects whenever I get the opportun
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/b8646b1e-bb50-4349-b7bd-eb3a8b3f303b"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/984025ad-13ef-4d82-b130-19691afab1ed"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/23676216-3a1c-4049-a93c-6d18b2ce9059" width="50" height="50" />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/7fb74469-3ad2-4229-aac4-f0b7ff40ffd4" width="50" height="50" />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/23676216-3a1c-4049-a93c-6d18b2ce9059" width="50" height="50" />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/fd205124-2e9d-43f8-96cb-3a226e865a83" width="50" height="50" />
+
+
+
