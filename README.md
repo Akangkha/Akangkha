@@ -23,15 +23,17 @@ I am a passinate web developer hunting down projects whenever i get the opportun
 
 
 <h2>Languages and tools</h2>
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/14fa10e0-b8ab-4dc6-a704-3b84d3c8d5db" width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/f25409ec-6719-4c4f-a5aa-405de706baec" width="50" height="50"  />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/a1ba5bf6-439c-471e-b0fc-23ec3796b325" width="50" height="50"  />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/0c1659fa-513c-4123-bf54-8b3c1e3df287" width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/26ae747d-9d5c-4744-9f43-ec2e4c2d6605"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/60206ca9-b099-4e40-af99-5858ddee91b3"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/286198b3-6cb2-4c3c-89fc-aeee53906efe"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/f308c46f-fa79-424a-a8d9-300a1a50148c"  width="50" height="50" />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/5b74d611-6526-4755-ba89-d92ed69b459d"  width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/e1851587-eefe-41d2-9acb-4049c533afa0"  width="50" height="50"  />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/b8646b1e-bb50-4349-b7bd-eb3a8b3f303b"  width="50" height="50"  />
+<img src="https://github.com/Akangkha/Akangkha/assets/113259853/984025ad-13ef-4d82-b130-19691afab1ed"  width="50" height="50"  />
 
 
+
+![pngwing com]()
 
 
