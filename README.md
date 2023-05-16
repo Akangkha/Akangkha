@@ -10,17 +10,16 @@ Here are some ideas to get you started: -->
 -------Frshers in KIIT DU , CSE -------
 I am a passinate web developer hunting down projects whenever i get the opportunity! ⚔️
 - 🔭 I’m currently working on ...google search engine clone and also gaining insights of AWS
+- ⚡ Fun fact: ... Always trusting my intuition
+- 😄 Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee ☕
+- 👯 I’m looking to collaborate on ...Web application related projects
+
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ... Always trusting my intuition
-- 😄 Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee ☕
-- 👯 I’m looking to collaborate on ...Web application related projects
-
-
 
 
 <h2>Languages and tools</h2>
