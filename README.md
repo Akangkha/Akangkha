@@ -1,5 +1,5 @@
-<p allign="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b"  /></p>
-<p allign=center><h1>Hi there 👋 Akangkha this side!</h1></p>
+<p align="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b"  /></p>
+<p align=center><h1>Hi there 👋 Akangkha this side!</h1></p>
 
 <!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
 
