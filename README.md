@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b"  /></p>
+<p align="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/5a681d1f-c289-45f6-a4ca-36eab1b48420"  /></p>
 <p><h1 align="center">Hi there 👋 Akangkha this side!</h1></p>
 
 <!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
@@ -31,6 +31,7 @@ I am a passinate web developer hunting down projects whenever i get the opportun
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/f308c46f-fa79-424a-a8d9-300a1a50148c"  width="50" height="50" />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/5b74d611-6526-4755-ba89-d92ed69b459d"  width="50" height="50"  />
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/e1851587-eefe-41d2-9acb-4049c533afa0"  width="50" height="50"  />
+
 
 
 
