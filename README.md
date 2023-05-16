@@ -7,8 +7,8 @@
 **Akangkha/Akangkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
--------Frshers in KIIT DU , CSE -------
-I am a passinate web developer hunting down projects whenever i get the opportunity! ⚔️
+-------Fresher in KIIT DU , CSE -------
+I am a passinate web developer hunting down projects whenever I get the opportunity! ⚔️
 - 🔭 I’m currently working on ...google search engine clone and also gaining insights of AWS
 - ✒️ Fun fact: ... Always trusting my intuition
 - ☕ Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee 
