@@ -1,7 +1,9 @@
-  ![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/63ec60fd-4b8c-4e7f-a510-e54e45d5e11f)
-### Hi there 👋 Akangkha this side!
+<img align="center" src="https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b"  />
+<h1 allign="center">Hi there 👋 Akangkha this side!</h1>
 
-<!--
+<!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
+
+
 **Akangkha/Akangkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
