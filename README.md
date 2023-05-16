@@ -17,7 +17,7 @@ I am a passinate web developer hunting down projects whenever i get the opportun
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ... Always trusting my intuition
-- 😄 Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee ☕☕
+- 😄 Feel Free ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee ☕
 - 👯 I’m looking to collaborate on ...Web application related projects
 
 
