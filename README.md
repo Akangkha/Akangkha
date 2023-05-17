@@ -22,6 +22,8 @@ I am a passinate web developer hunting down projects whenever I get the opportun
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akangkha&theme=tokyonight)
+
 
 <h2>Languages - tools </h2>
 <img src="https://github.com/Akangkha/Akangkha/assets/113259853/a1ba5bf6-439c-471e-b0fc-23ec3796b325" width="50" height="50"  />
