@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started: -->
 -------Fresher in KIIT DU , CSE -------
-I am a passinate web developer hunting down projects whenever I get the opportunity! ⚔️
-- 🔭 I’m currently working on ...to gain insights on AWS
-- 👩🏻‍💻 I’m looking to collaborate on ...Web application related projects
+I am a passinate full web developer hunting down projects whenever I get the opportunity! ⚔️
+- 🔭 I'm a beginner in the exciting world of data science, eager to learn and contribute!
 - ✒️ Fun fact: ... Always trusting my intuition
-- ☕ Feel Free: ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee 
+- ☕ Feel Free: ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee
+- 🔗 You can always contact me as mentioned anytime
 
 
 <!-- - 🌱 I’m currently learning ...
