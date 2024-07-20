@@ -4,7 +4,9 @@
 <p align="center">
   <h1>Hi there 👋🏻 Akangkha this side!</h1>
 </p>
-![My stats](https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=&theme=github-dark-dimmed)](https://git.io/streak-stats" alt="Profile Image" width="70%"/>
 
 
 
