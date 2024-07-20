@@ -1,8 +1,10 @@
-<p align="center"><img src="https://github.com/Akangkha/Akangkha/assets/113259853/5a681d1f-c289-45f6-a4ca-36eab1b48420"  width="70%"/></p>
+<p align="center">
+  ![image](https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373)
+</p>
 <p><h1 align="center">Hi there 👋🏻 Akangkha this side!</h1></p>
 
 <!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Akangkha)](https://git.io/streak-stats)
 
 **Akangkha/Akangkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
