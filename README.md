@@ -1,7 +1,9 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373)
+  <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" />
 </p>
-<p><h1 align="center">Hi there 👋🏻 Akangkha this side!</h1></p>
+<p align="center">
+  <h1>Hi there 👋🏻 Akangkha this side!</h1>
+</p>
 
 <!--![web-development](https://github.com/Akangkha/Akangkha/assets/113259853/fb4166a0-0dc9-41df-9f39-11121cb4ab8b)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akangkha)](https://git.io/streak-stats)
@@ -10,10 +12,10 @@
 
 Here are some ideas to get you started: -->
 -------Pre-Final student in KIIT DU , CSE -------
-I am a passinate full web developer hunting down projects whenever I get the opportunity! ⚔️
+I am a passionate full-stack web developer hunting down projects whenever I get the opportunity! ⚔️
 - 🔭 I'm a beginner in the exciting world of data science, eager to learn and contribute!
 - ✒️ Fun fact: ... Always trusting my intuition
-- ☕ Feel Free: ... to  reach out to me if you have any sort of recommendations  ! We will definitely discuss that over a cup of coffee
+- ☕ Feel Free: ... to reach out to me if you have any sort of recommendations! We will definitely discuss that over a cup of coffee
 - 🔗 You can always contact me as mentioned anytime
 
 
