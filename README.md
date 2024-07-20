@@ -2,11 +2,18 @@
   <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="70%"/>
 </p>
 <p align="center">
-  <h1>Hi there 👋🏻 Akangkha this side!</h1>
+  <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="70%"/>
 </p>
+<h1 align="center">Hi there 👋🏻 Akangkha this side!</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="40%"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akangkha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" width="40%" /></a>
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=akangkha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" width="45%"/>
+ 
+  <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="45%"/>
+
+    </a>
+</p>
 
 
 Here are some ideas to get you started: -->
