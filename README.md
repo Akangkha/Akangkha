@@ -5,8 +5,8 @@
   <h1>Hi there 👋🏻 Akangkha this side!</h1>
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="70%"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akangkha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="40%"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akangkha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" width="40%" /></a>
 
 
 Here are some ideas to get you started: -->
