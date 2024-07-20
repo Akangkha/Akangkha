@@ -6,8 +6,7 @@
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="70%"/>
-  <img src="https://streak-stats.demolab.com?user=&theme=github-dark-dimmed)](https://git.io/streak-stats" alt="Profile Image" width="70%"/>
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akangkha&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
 
 
 Here are some ideas to get you started: -->
