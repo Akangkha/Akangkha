@@ -7,7 +7,7 @@
 **Akangkha/Akangkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
--------Fresher in KIIT DU , CSE -------
+-------Pre-Final student in KIIT DU , CSE -------
 I am a passinate full web developer hunting down projects whenever I get the opportunity! ⚔️
 - 🔭 I'm a beginner in the exciting world of data science, eager to learn and contribute!
 - ✒️ Fun fact: ... Always trusting my intuition
