@@ -5,9 +5,7 @@
 <p align="center">
  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="50%" style="vertical-align: middle;"/>
 </p>
-<p align="center">
- <img src="https://my.spline.design/roomgirlworkingcopy-5d7384d05ca045b1735e84e6c6604489/" alt="GitHub Streak" width="50%" style="vertical-align: middle;"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="50%" style="height: 200px;" />
