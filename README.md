@@ -3,12 +3,8 @@
 </p>
 
 <div align="center">
-  <h1 style="display: inline; vertical-align: middle; margin: 0;">Hi there 👋🏻 Akangkha this side!</h1>
-  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="150" style="vertical-align: middle;"/>
-</div>
-<div style="display: flex; align-items: center;">
-  <h1 style="margin: 0;">Hi there 👋🏻 Akangkha this side!</h1>
-  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="150"/>
+  <p style="display: inline-block; margin: 0;">Hi there 👋🏻 Akangkha this side!</p>
+  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" style="display: inline-block;"/>
 </div>
 
 <p align="center">
