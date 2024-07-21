@@ -1,11 +1,14 @@
 <p align="center">
  <h1 style="display: inline-block; margin: 0;" align-"center">Hi there 👋🏻 Akangkha this side!</h1>
+</p>
+
+<p align="center">
  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="60%" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="50%" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="45%" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="48%" style="height: 200px;" />
 </p>
 
 <p align="center">
