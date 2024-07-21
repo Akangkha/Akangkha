@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="50%"/>
 </p>
 
-<div align="center">
-  <span style=" margin: 0;">Hi there 👋🏻 Akangkha this side!</span>
-  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak"  width="60%"/>
+<div style="text-align: center;">
+  <span style="vertical-align: middle; display: inline-block;">Hi there 👋🏻 Akangkha this side!</span>
+  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="60%" style="vertical-align: middle;"/>
 </div>
 
 <p align="center">
