@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="50%"/>
-</p>
 
-<div style="text-align: center;">
-  <span style="vertical-align: middle; display: inline-block;">Hi there 👋🏻 Akangkha this side!</span>
-  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="60%" style="vertical-align: middle;"/>
-</div>
+ <h1 style="display: inline-block; margin: 0;" align-"center">Hi there 👋🏻 Akangkha this side!</h1>
+ <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="60%" style="vertical-align: middle;"/>
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="45%" style="height: 200px;" />
+  <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="45%" style="height: 250px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="45%" style="height: 200px;" />
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="50%"/>
+</p>
 
 Pre-Final student in KIIT DU , CSE 
 I am a passionate full-stack web developer hunting down projects whenever I get the opportunity! ⚔️
