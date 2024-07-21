@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <p style="display: inline-block; margin: 0;">Hi there 👋🏻 Akangkha this side!</p>
-  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" style="display: inline-block;"/>
+  <span style=" margin: 0;">Hi there 👋🏻 Akangkha this side!</span>
+  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak"  width="60%"/>
 </div>
 
 <p align="center">
