@@ -3,7 +3,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <h2 style="margin-right: 20px;">Hi there 👋🏻 Akangkha this side!</h2>
+  <h2 style="margin-right: 20px; margin: 0;">Hi there 👋🏻 Akangkha this side!</h2>
   <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" style="width: 150px;"/>
 </div>
 
