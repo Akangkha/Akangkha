@@ -6,7 +6,10 @@
   <h1 style="display: inline; vertical-align: middle; margin: 0;">Hi there 👋🏻 Akangkha this side!</h1>
   <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="150" style="vertical-align: middle;"/>
 </div>
-
+<div style="display: flex; align-items: center;">
+  <h1 style="margin: 0;">Hi there 👋🏻 Akangkha this side!</h1>
+  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="150"/>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="45%" style="height: 200px;" />
