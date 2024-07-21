@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="60%" style="vertical-align: middle;"/>
+ <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="50%" style="vertical-align: middle;"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="50%"/>
+  <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Profile Image" width="50%"/>
 </p>
 
 Pre-Final student in KIIT DU , CSE 
