@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/d5a2c4f9-c03f-44f0-b29a-99ec4f1e5373" alt="Profile Image" width="50%"/>
 </p>
 
-<div>
+<div align="center">
   <h1 style="display: inline; vertical-align: middle; margin: 0;">Hi there 👋🏻 Akangkha this side!</h1>
   <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="150" style="vertical-align: middle;"/>
 </div>
