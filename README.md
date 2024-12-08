@@ -16,7 +16,7 @@
   <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Profile Image" width="50%"/>
 </p>
 
-Pre-Final student in KIIT DU , CSE 
+
 I am a passionate full-stack web developer hunting down projects whenever I get the opportunity! ⚔️
 - 🔭 I'm a beginner in the exciting world of data science, eager to learn and contribute!
 - ✒️ Fun fact: ... Always trusting my intuition
