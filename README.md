@@ -30,6 +30,34 @@ I am a passionate full-stack web developer hunting down projects whenever I get 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
+# My Skills and Tech Stack
+
+## 🌐 Web Development
+### Basic
+- **Languages**: JavaScript, TypeScript, Python, Java, Golang, C++
+
+### Front-End
+- **Frameworks & Libraries**: React.js, Next.js, Redux
+
+### Back-End
+- **Technologies**: Node.js, Express.js,  Python (Django, Flask) , Next.js
+
+### Database
+- Supabase, Firebase, MySQL, PostgreSQL, MongoDB
+
+### Tools
+- Asana, ClickUp
+
+---
+
+## 🚀 DevOps Engineering
+- **Containerization & Orchestration**: Docker, Kubernetes, Nginx
+- **CI/CD Tools**: GitHub Actions, Jenkins
+
+### Cloud Platforms
+- **Amazon Web Services (AWS)**: Lambda, API Gateway, EC2, S3, EKS, ECS,  Route 53, RDS, DynamoDB, etc.
+- **Google Cloud Platform (GCP)**
+- **Microsoft Azure**
 
 
 
