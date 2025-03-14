@@ -2,9 +2,9 @@
  <h1 style="display: inline-block; margin: 0;" align-"center"> Hi, Akangkha Here! Welcome to my Code Laboratory! 😸</h1>
 </p>
 
-<p align="center">
+<!--- <p align="center">
  <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="50%" style="vertical-align: middle;"/>
-</p>
+</p --->
 
 
 <p align="center">
