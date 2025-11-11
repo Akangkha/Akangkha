@@ -7,10 +7,10 @@
 </p --->
 
 
-<p align="center">
+<!-- <p align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="50%" style="height: 200px;" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="48%" style="height: 200px;" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Profile Image" width="50%"/>
