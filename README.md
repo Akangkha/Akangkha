@@ -1,74 +1,113 @@
-<p align="center">
- <h1 style="display: inline-block; margin: 0;" align-"center"> Hi, Akangkha Here! Welcome to my Code Laboratory! 😸</h1>
-</p>
+<div align="center">
 
-<!--- <p align="center">
- <img src="https://github.com/user-attachments/assets/0b93cb7d-9a92-4b62-91a8-579647392f9e" alt="GitHub Streak" width="50%" style="vertical-align: middle;"/>
-</p --->
+### 🌑 Akangkha Sarkar
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Distributed+Systems+%26+Cloud-Native+Apps;Product-Focused+Builder+%26+Team+Lead" />
 
-<!-- <p align="center">
-   <img src="https://streak-stats.demolab.com?user=akangkha&theme=midnight-purple" alt="GitHub Streak" width="50%" style="height: 200px;" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=akangkha&theme=midnight-purple&show_icons=true" alt="Profile Image" width="48%" style="height: 200px;" /> 
-</p> 
--->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="Profile Image" width="50%"/>
-</p>
+<br/>
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="55%"/>
 
-- ✒️ Fun fact: ... Always trusting my intuition
-- ☕ Feel Free: ... to reach out to me if you have any sort of recommendations! We will definitely discuss that over a cup of coffee
-- 🔗 You can always contact me as mentioned anytime
-
-
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
-# My Skills and Tech Stack
-
-## 🌐 Web Development
-### Basic
-- **Languages**: JavaScript, TypeScript, Python, Java, Golang, C++
-
-### Front-End
-- **Frameworks & Libraries**: React.js, Next.js, Redux
-
-### Back-End
-- **Technologies**: Node.js, Express.js,  Python (Django, Flask) , Next.js
-
-### Database
-- Supabase, Firebase, MySQL, PostgreSQL, MongoDB
-
-### Tools
-- Asana, ClickUp
+</div>
 
 ---
 
-## 🚀 DevOps Engineering
-- **Containerization & Orchestration**: Docker, Kubernetes, Nginx
-- **CI/CD Tools**: GitHub Actions, Jenkins
+<div align="center">
+  <sub>Engineering stable systems. Designing calm experiences. Shipping work that speaks for itself.</sub>
+</div>
 
-### Cloud Platforms
-- **Amazon Web Services (AWS)**: Lambda, API Gateway, EC2, S3, EKS, ECS,  Route 53, RDS, DynamoDB, etc.
-- **Google Cloud Platform (GCP)**
-- **Microsoft Azure**
+---
 
+## 👋 About Me
 
+I’m **Akangkha**, a software engineer who enjoys working at the intersection of:
 
-<h2>Languages - tools </h2>
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/a1ba5bf6-439c-471e-b0fc-23ec3796b325" width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/0c1659fa-513c-4123-bf54-8b3c1e3df287" width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/26ae747d-9d5c-4744-9f43-ec2e4c2d6605"  width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/60206ca9-b099-4e40-af99-5858ddee91b3"  width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/286198b3-6cb2-4c3c-89fc-aeee53906efe"  width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/f308c46f-fa79-424a-a8d9-300a1a50148c"  width="50" height="50" />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/b8646b1e-bb50-4349-b7bd-eb3a8b3f303b"  width="50" height="50"  />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/23676216-3a1c-4049-a93c-6d18b2ce9059" width="50" height="50" />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/fd205124-2e9d-43f8-96cb-3a226e865a83" width="50" height="50" />
-<img src="https://github.com/Akangkha/Akangkha/assets/113259853/984025ad-13ef-4d82-b130-19691afab1ed"  width="50" height="50"  />
+* **Distributed systems & cloud-native architectures**
+* **Full-stack product development** with real users and real constraints
+* **Clean design & thoughtful developer experience**
 
+I like problems that are a little too hard, systems that need to be tamed, and products that deserve more care than a quick prototype. My work is guided by three principles:
 
+* **Clarity over chaos** – simple, observable, well-documented systems
+* **Reliability over theatrics** – uptime and correctness before cleverness
+* **Respect for the user** – performance, accessibility, and flow matter
 
+---
+
+<div align="center">
+  ✦ ✦ ✦
+</div>
+
+## 🧩 How I Work
+
+* I think in **end-to-end flows** – from client interaction to database, infra, and monitoring.
+* I care about **API design, data modeling, and failure modes** as much as UI polish.
+* I’m comfortable moving between **deep focus work** and **leading teams & discussions**.
+* I document decisions, not just code.
+
+If you’re looking for someone who can both **architect** and **execute**, while staying grounded and collaborative – that’s where I’m happiest.
+
+---
+
+<div align="center">
+  <sub>Tech I reach for often</sub>
+</div>
+
+## 🛠️ Core Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,py,java,react,nextjs,nodejs,postgres,mongodb,mysql,docker,kubernetes,aws,azure,nginx,linux,graphql,redis&perline=8" />
+
+</div>
+
+* **Backend & Systems**: Go, Node.js, Express, gRPC, REST, PostgreSQL, MongoDB
+* **Frontend**: React, Next.js, TypeScript, modern component architectures
+* **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux
+* **Data & Observability**: SQL, Elasticsearch, Power BI, logs & metrics as first-class citizens
+
+---
+
+<div align="center">
+  ✶ ✶ ✶
+</div>
+
+## 🧠 What You Can Expect From Me
+
+* **Ownership** – I don’t just complete tickets; I care about the system and its users.
+* **Calm under pressure** – outages, migrations, and deadlines don’t scare me; they focus me.
+* **Communication** – I explain tradeoffs, not just solutions.
+* **Range** – from CLI tools & backend services to dashboards, UX flows, and developer tooling.
+
+---
+
+<div align="center">
+  <sub>Always learning. Always building.</sub>
+</div>
+
+## 📌 Currently
+
+* Designing and building **network-resilient systems** and **cloud-native tooling**.
+* Exploring better ways to combine **observability, performance, and developer ergonomics**.
+* Open to **internships / new grad roles** where I can work on serious engineering problems with thoughtful teams.
+
+---
+
+## 📬 Let’s Talk
+
+<div align="center">
+
+<a href="mailto:akangkhasarkar@gmail.com"><img src="https://img.shields.io/badge/Email-222831?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/akangkha-sarkar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Akangkha"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <b>Based in India · Open to opportunities in Bangalore and beyond</b>
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for scrolling. If something here resonates with your team, I’d be happy to continue the conversation.</sub>
+</div>
