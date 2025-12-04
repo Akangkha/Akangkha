@@ -3,11 +3,13 @@
 <br/>
 <br/>
 <div align="center">
-
+  <hr>
+<div align="center">
+  <sub>Always learning. Always building.</sub>
+</div>
+  <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Distributed+Systems+%26+Cloud-Native+Apps;Product-Focused+Builder+%26+Team+Lead" />
 
-
-<br/>
 <!-- <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="55%"/> -->
 
 </div>
@@ -15,10 +17,11 @@
   <sub>Engineering stable systems. Designing calm experiences. Shipping work that speaks for itself.</sub>
 </div>
 
+***
 
 ### 👋 About Me
 
-i'm **Akangkha Sarkar**, a software engineer who enjoys working at the intersection of:
+I'm **Akangkha Sarkar**, a software engineer who enjoys working at the intersection of:
 
 * **Distributed systems & cloud-native architectures**
 * **Full-stack product development** with real users and real constraints
@@ -30,10 +33,10 @@ I like problems that are a little too hard, systems that need to be tamed, and p
 * **Reliability over theatrics** – uptime and correctness before cleverness
 * **Respect for the user** – performance, accessibility, and flow matter
 
----
+
 
 <div align="center">
-  ✦ ✦ ✦
+   ✶ ✶ ✶
 </div>
 
 ## 🧩 How I Work
@@ -45,11 +48,7 @@ I like problems that are a little too hard, systems that need to be tamed, and p
 
 If you’re looking for someone who can both **architect** and **execute**, while staying grounded and collaborative – that’s where I’m happiest.
 
----
 
-<div align="center">
-  <sub>Tech I reach for often</sub>
-</div>
 
 ## 🛠️ Core Stack & Tools
 
@@ -64,7 +63,7 @@ If you’re looking for someone who can both **architect** and **execute**, whil
 * **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux
 * **Data & Observability**: SQL, Elasticsearch, Power BI, logs & metrics as first-class citizens
 
----
+
 
 <div align="center">
   ✶ ✶ ✶
@@ -77,11 +76,9 @@ If you’re looking for someone who can both **architect** and **execute**, whil
 * **Communication** – I explain tradeoffs, not just solutions.
 * **Range** – from CLI tools & backend services to dashboards, UX flows, and developer tooling.
 
----
 
-<div align="center">
-  <sub>Always learning. Always building.</sub>
-</div>
+
+
 
 ## 📌 Currently
 
@@ -89,7 +86,7 @@ If you’re looking for someone who can both **architect** and **execute**, whil
 * Exploring better ways to combine **observability, performance, and developer ergonomics**.
 * Open to **internships / new grad roles** where I can work on serious engineering problems with thoughtful teams.
 
----
+
 
 ## 📬 Let’s Talk
 
@@ -102,10 +99,9 @@ If you’re looking for someone who can both **architect** and **execute**, whil
 <br/>
 
 <div align="center">
-  <b>Based in India · Open to opportunities in Bangalore and beyond</b>
+  <b>Based in India · Open to opportunities in Hyderabad, Bangalore, Pune, Bhubaneshwar and beyond</b>
 </div>
 
----
 
 <div align="center">
   <sub>Thanks for scrolling. If something here resonates with your team, I’d be happy to continue the conversation.</sub>
