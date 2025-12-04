@@ -1,25 +1,24 @@
-<div align="center">
 
-### 🌑 Akangkha Sarkar
+<img width="100%" height="368" alt="image" src="https://github.com/user-attachments/assets/b95cf95b-a6e7-47c7-a116-0008fdecd1b9" />
+<br/>
+<br/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Distributed+Systems+%26+Cloud-Native+Apps;Product-Focused+Builder+%26+Team+Lead" />
 
+
 <br/>
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="55%"/>
+<!-- <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="55%"/> -->
 
 </div>
-
----
-
 <div align="center">
   <sub>Engineering stable systems. Designing calm experiences. Shipping work that speaks for itself.</sub>
 </div>
 
----
 
-## 👋 About Me
+### 👋 About Me
 
-I’m **Akangkha**, a software engineer who enjoys working at the intersection of:
+i'm **Akangkha Sarkar**, a software engineer who enjoys working at the intersection of:
 
 * **Distributed systems & cloud-native architectures**
 * **Full-stack product development** with real users and real constraints
