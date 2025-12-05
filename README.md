@@ -58,7 +58,9 @@ If you’re looking for someone who can both **architect** and **execute**, whil
 <br/>
 <br/>
 <br/>
-* **Backend & Systems**: Go, Node.js, Express, gRPC, REST, PostgreSQL, MongoDB
+</div>
+
+* **Backend & Systems** : Go, Node.js, Express, gRPC, REST, PostgreSQL, MongoDB 
 * **Frontend**: React, Next.js, TypeScript, modern component architectures
 * **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Linux
 * **Data & Observability**: SQL, Elasticsearch, Power BI, logs & metrics as first-class citizens
